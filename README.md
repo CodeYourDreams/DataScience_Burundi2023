@@ -2,13 +2,15 @@
 # Data Science Curriculum
 
 [Tentative schedule](https://docs.google.com/spreadsheets/d/1dFjTYSxrviJ2crVNM-oLtn4QnQ-rLmmrOq9bBgPa-8s/edit?usp=sharing)
+[Zoom recordings](https://docs.google.com/spreadsheets/d/1TOUg_nIrYOLaTPxg-YdZre_awuy5s8XNUCNxhHEfG1M/edit#gid=0) (If you can't see the content please click on request access).
 
 
 ## Slides 
 
-| **Class** | **Date**          |        **Title**       | **Slides** | **Zoom video** | **Google Colab** |
-|:---------:|-------------------|:----------------------:|:----------:|:--------------:|:--------------:|
-|     1     | February 13, 2023  | Welcome                |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2001%20-%20Welcome/class01_welcome.ipynb)    |      [Link](https://us02web.zoom.us/rec/play/ZNrNq6hmRa1u1Q7nsfQueHMAdobZzo3lI7V4Z-6HwNthS4_RQrmMbsXPkOm8PFYYb89nvZCf5cst_avw.Bq7VjN3ru8MzwuHV?continueMode=true&_x_zm_rtaid=rBCPWkj3R_WmLqhugSaohg.1676606037265.46c9e323dadc030c07a8cc63db851939&_x_zm_rhtaid=520)      |     N/A     |
-|     2     | February 17, 2023 | My first `hello world` |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2002%20-%20My%20first%20Hello%20World/class02_helloworld.ipynb)    |     [Link](https://us02web.zoom.us/rec/share/pxjKgYjanzu7twzh5D3CJT039p5-3Pdaej2w-DLF4LcORKv4F13_MfqFnyO4J2fX.y8T0mOlrpJi-xy5t)     |     N/A     |
-|     3     | February 20, 2023 | Google Colab review |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb)    |     TBP     |     N/A     |
-|     4     | February 24, 2023 | Python Variables and DataTypes |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2004%20-%20Variables%20and%20Datatypes%20Part%202/class04_variables_datatypes.ipynb)    |     TBP     |     [Link](https://colab.research.google.com/drive/1VGBPwvp0MiCbfr0KEtMhiT6T-V1r9N0-?usp=sharing)     |
+| **Class** | **Date**          |        **Title**       | **Slides** | **Google Colab** |
+|:---------:|-------------------|:----------------------:|:----------:|:--------------:|
+|     1     | February 13, 2023  | Welcome                |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2001%20-%20Welcome/class01_welcome.ipynb)    |     N/A     |
+|     2     | February 17, 2023 | My first `hello world` |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2002%20-%20My%20first%20Hello%20World/class02_helloworld.ipynb)    |          N/A     |
+|     3     | February 20, 2023 | Google Colab review |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb)    |     N/A     |
+|     4     | February 24, 2023 | Python Variables and DataTypes |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2004%20-%20Variables%20and%20Datatypes%20Part%202/class04_variables_datatypes.ipynb)    |     [Link](https://colab.research.google.com/drive/1VGBPwvp0MiCbfr0KEtMhiT6T-V1r9N0-?usp=sharing)     |
+|     5     | February 27, 2023 | Arithmetic syntax |    [Link]()    |     [Link]()     |
