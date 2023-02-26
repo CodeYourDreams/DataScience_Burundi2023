@@ -13,4 +13,4 @@
 |     2     | February 17, 2023 | My first `hello world` |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2002%20-%20My%20first%20Hello%20World/class02_helloworld.ipynb)    |          N/A     |
 |     3     | February 20, 2023 | Google Colab review |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb)    |     N/A     |
 |     4     | February 24, 2023 | Python Variables and DataTypes |    [Link](https://github.com/CodeYourDreams/DataScience_Burundi2023/blob/main/Class%2004%20-%20Variables%20and%20Datatypes%20Part%202/class04_variables_datatypes.ipynb)    |     [Link](https://colab.research.google.com/drive/1VGBPwvp0MiCbfr0KEtMhiT6T-V1r9N0-?usp=sharing)     |
-|     5     | February 27, 2023 | Arithmetic syntax |    [Link]()    |     [Link]()     |
+|     5     | February 27, 2023 | Arithmetic syntax |    [Link](Class%2005%20-%20Arithmetic%20syntax/class05_arithmetic_syntax.ipynb)    |     [Link]()     |
