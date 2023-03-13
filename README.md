@@ -20,5 +20,4 @@ Email: vivianamarquez305 (at) gmail (dot) com
 |     6     | March 6, 2023 | String |    [Link](Class%2006%20-%20Strings/class06_strings.ipynb)    |     [Link]()     |
 |     7     | March 10, 2023 | Data Structures |    [Link](Class%2007%20-%20Lists/class07_lists.ipynb)    |     [Link]
 (https://colab.research.google.com/drive/1CumspJmWjOCdsHVxhPaRKMLccCUgTzSX?usp=sharing)     |
-|     8     | March 13, 2023 | Conditionals |    [Link](Class%2008%20-%20Conditionals/class08_conditionals.ipynb)    |     [Link]
-(https://colab.research.google.com/drive/19NpF7VTFUE-XPn1e6j7sVpoUX8xxNZvV?usp=sharing)     |
+
