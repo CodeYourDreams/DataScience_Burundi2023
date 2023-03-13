@@ -18,6 +18,6 @@ Email: vivianamarquez305 (at) gmail (dot) com
 |     4     | February 24, 2023 | Python Variables and DataTypes |    [Link](Class%2004%20-%20Variables%20and%20Datatypes%20Part%202/class04_variables_datatypes.ipynb)    |     [Link](https://colab.research.google.com/drive/1VGBPwvp0MiCbfr0KEtMhiT6T-V1r9N0-?usp=sharing)     |
 |     5     | February 27, 2023 | Arithmetic syntax |    [Link](Class%2005%20-%20Arithmetic%20syntax/class05_arithmetic_syntax.ipynb)    |     [Link](https://colab.research.google.com/drive/1twEg1b0xMa1SFFwo_lWmS8TcGoSn-Nqf?usp=sharing)     |
 |     6     | March 6, 2023 | String |    [Link](Class%2006%20-%20Strings/class06_strings.ipynb)    |     [Link]()     |
-|     7     | March 10, 2023 | Data Structures |    [Link](Class%2007%20-%20Lists/class07_lists.ipynb)    |     [Link]
-(https://colab.research.google.com/drive/1CumspJmWjOCdsHVxhPaRKMLccCUgTzSX?usp=sharing)     |
+|     7     | March 10, 2023 | Data Structures |    [Link](Class%2007%20-%20Lists/class07_lists.ipynb)    |     [Link](https://colab.research.google.com/drive/1CumspJmWjOCdsHVxhPaRKMLccCUgTzSX?usp=sharing)     |
+|     8     | March 13, 2023 | Conditionals |    [Link](Class%2008%20-%20Conditionals/class08_conditionals.ipynb)    |     [Link](https://colab.research.google.com/drive/19NpF7VTFUE-XPn1e6j7sVpoUX8xxNZvV?usp=sharing)     |
 
