@@ -22,4 +22,5 @@ Email: vivianamarquez305 (at) gmail (dot) com
 |     8     | March 13, 2023 | Conditionals |    [Link](Class%2008%20-%20Conditionals/class08_conditionals.ipynb)    |     [Link](https://colab.research.google.com/drive/19NpF7VTFUE-XPn1e6j7sVpoUX8xxNZvV?usp=sharing)     |
 |     9     | March 17, 2023 | Loops |    [Link](Class%2009%20-%20Loops/class09_loops.ipynb)    |     [Link](https://colab.research.google.com/drive/1zSI9jQI2KNAmXTXSZGQJxDb9s4Mvr7Bz?usp=sharing)     |
 |     10     | March 20, 2023 | Comprehension lists |    [Link](Class%2010%20-%20Comprehension%20List/class10_comprehension_list.ipynb)    |     [Link](https://colab.research.google.com/drive/1O_Lq4oeoe008cY8z_h0BeWCw8Q-hwDMZ?usp=sharing)     |
+|     11     | March 24, 2023 | Functions |    [Link](Class%2011%20-%20Functions/class11_functions.ipynb)    |     [Link](https://colab.research.google.com/drive/1qtNACqDw4hLQrXG-1V_cCwxUxi8Tuasv?usp=sharing)     |
 
