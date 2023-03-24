@@ -7,6 +7,11 @@
 Instructor: [Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/)<br>
 Email: vivianamarquez305 (at) gmail (dot) com
 
+Teacher Assistant's:
+- Cherie Fernandes
+    - Email: cgers (at) uchicago (dot) edu
+
+
 
 ## Slides 
 
