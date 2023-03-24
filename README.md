@@ -9,7 +9,7 @@ Email: vivianamarquez305 (at) gmail (dot) com
 
 Teacher Assistant's:
 - Cherie Fernandes
-    - Email: cgers (at) uchicago (dot) edu
+    - Email: cfers (at) uchicago (dot) edu
 
 
 
