@@ -7,7 +7,7 @@
 Instructor: [Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/)<br>
 Email: vivianamarquez305 (at) gmail (dot) com
 
-Teacher Assistant's:
+Teaching Assistants:
 - Cherie Fernandes
     - Email: cfers (at) uchicago (dot) edu
 
