@@ -31,6 +31,6 @@ Teaching Assistants:
 |     11     | March 24, 2023 | Functions |    [Link](Class%2011%20-%20Functions/class11_functions.ipynb)    |     [Link](https://colab.research.google.com/drive/1qtNACqDw4hLQrXG-1V_cCwxUxi8Tuasv?usp=sharing)     |
 |     12     | March 27, 2023 | Libraries |    [Link](Class%2012%20-%20Libraries/class12_libraries.ipynb)    |     [Link](https://colab.research.google.com/drive/1H1uFlh8kc_9Nen_qiwqnv-WURkaFLQUg?usp=sharing)     |
 |     13     | March 31, 2023 | Python review |    [Link](Class%2013%20-%20Python%20practice/class13_python_practice.ipynb)    |     [Link](https://colab.research.google.com/drive/15EKM6GZqZcMvU2SRgAXqdpC-l2QM_I3U?usp=sharing)     |
-|     14     | Abril 3, 2023 | Data Science Pipeline |    [Link](Class%2014%20-%20Data%20Science%20pipeline/class14_ds.ipynb)    |     [Link](https://colab.research.google.com/drive/1N5ReXwJn2fEqlohJI1hOneaFmf6fo9Cj?usp=sharing)     |
+|     14     | April 3, 2023 | Data Science Pipeline |    [Link](Class%2014%20-%20Data%20Science%20pipeline/class14_ds.ipynb)    |     [Link](https://colab.research.google.com/drive/1N5ReXwJn2fEqlohJI1hOneaFmf6fo9Cj?usp=sharing)     |
 
 
