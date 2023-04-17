@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Twitter tokens
+Class\ 16\ -\ Twitter/keys_demo.csv 
