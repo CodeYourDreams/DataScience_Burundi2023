@@ -34,6 +34,6 @@ Teaching Assistants:
 |     14     | April 3, 2023 | Data Science Pipeline |    [Link](Class%2014%20-%20Data%20Science%20pipeline/class14_ds.ipynb)    |     [Link](https://colab.research.google.com/drive/1N5ReXwJn2fEqlohJI1hOneaFmf6fo9Cj?usp=sharing)     |
 |     15     | April 10, 2023 | Webscraping |    [Link](Class%2015%20-%20Webscraping/class15_web_scraping.ipynb)    |     [Link](https://colab.research.google.com/drive/1a6IQsEVxpmSNHpzGi66yR8I5IuQCb3SZ?usp=sharing)     |
 |     16     | April 17, 2023 | Twitter |    [Link](Class%2016%20-%20Twitter/class_16_twitter.ipynb)    |     [Link](https://colab.research.google.com/drive/1wXA1zPpiDW1pCgH225DkN6kGN-np3r9G?usp=sharing)     |
-|     17     | April 21, 2023 | Language |    [Link](Class%2017%20-%20Language/class_17_language.ipynb)    |     [Link](https://colab.research.google.com/drive/14TS-dkxMVEQB0mZmS4OavqB43_pcZiFN?usp=sharing)     |
+|     17     | April 21, 2023 | What is NLP? |    [Link](Class%2017%20-%20Language/class_17_language.ipynb)    |     [Link](https://colab.research.google.com/drive/14TS-dkxMVEQB0mZmS4OavqB43_pcZiFN?usp=sharing)     |
 
 
