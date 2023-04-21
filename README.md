@@ -23,7 +23,7 @@ Teaching Assistants:
 |     3     | February 20, 2023 | Google Colab review |    [Link](Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb)    |     N/A     |
 |     4     | February 24, 2023 | Python Variables and DataTypes |    [Link](Class%2004%20-%20Variables%20and%20Datatypes%20Part%202/class04_variables_datatypes.ipynb)    |     [Link](https://colab.research.google.com/drive/1VGBPwvp0MiCbfr0KEtMhiT6T-V1r9N0-?usp=sharing)     |
 |     5     | February 27, 2023 | Arithmetic syntax |    [Link](Class%2005%20-%20Arithmetic%20syntax/class05_arithmetic_syntax.ipynb)    |     [Link](https://colab.research.google.com/drive/1twEg1b0xMa1SFFwo_lWmS8TcGoSn-Nqf?usp=sharing)     |
-|     6     | March 6, 2023 | String |    [Link](Class%2006%20-%20Strings/class06_strings.ipynb)    |     [Link]()     |
+|     6     | March 6, 2023 | Strings |    [Link](Class%2006%20-%20Strings/class06_strings.ipynb)    |     [Link]()     |
 |     7     | March 10, 2023 | Data Structures |    [Link](Class%2007%20-%20Lists/class07_lists.ipynb)    |     [Link](https://colab.research.google.com/drive/1CumspJmWjOCdsHVxhPaRKMLccCUgTzSX?usp=sharing)     |
 |     8     | March 13, 2023 | Conditionals |    [Link](Class%2008%20-%20Conditionals/class08_conditionals.ipynb)    |     [Link](https://colab.research.google.com/drive/19NpF7VTFUE-XPn1e6j7sVpoUX8xxNZvV?usp=sharing)     |
 |     9     | March 17, 2023 | Loops |    [Link](Class%2009%20-%20Loops/class09_loops.ipynb)    |     [Link](https://colab.research.google.com/drive/1zSI9jQI2KNAmXTXSZGQJxDb9s4Mvr7Bz?usp=sharing)     |
@@ -34,5 +34,6 @@ Teaching Assistants:
 |     14     | April 3, 2023 | Data Science Pipeline |    [Link](Class%2014%20-%20Data%20Science%20pipeline/class14_ds.ipynb)    |     [Link](https://colab.research.google.com/drive/1N5ReXwJn2fEqlohJI1hOneaFmf6fo9Cj?usp=sharing)     |
 |     15     | April 10, 2023 | Webscraping |    [Link](Class%2015%20-%20Webscraping/class15_web_scraping.ipynb)    |     [Link](https://colab.research.google.com/drive/1a6IQsEVxpmSNHpzGi66yR8I5IuQCb3SZ?usp=sharing)     |
 |     16     | April 17, 2023 | Twitter |    [Link](Class%2016%20-%20Twitter/class_16_twitter.ipynb)    |     [Link](https://colab.research.google.com/drive/1wXA1zPpiDW1pCgH225DkN6kGN-np3r9G?usp=sharing)     |
+|     17     | April 21, 2023 | Language |    [Link](Class%2017%20-%20Language/class_17_language.ipynb)    |     [Link](https://colab.research.google.com/drive/14TS-dkxMVEQB0mZmS4OavqB43_pcZiFN?usp=sharing)     |
 
 
