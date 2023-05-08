@@ -36,6 +36,7 @@ Teaching Assistants:
 |     16     | April 17, 2023 | Twitter |    [Link](Class%2016%20-%20Twitter/class_16_twitter.ipynb)    |     [Link](https://colab.research.google.com/drive/1wXA1zPpiDW1pCgH225DkN6kGN-np3r9G?usp=sharing)     |
 |     17     | April 21, 2023 | What is NLP? |    [Link](Class%2017%20-%20Language/class_17_language.ipynb)    |     [Link](https://colab.research.google.com/drive/14TS-dkxMVEQB0mZmS4OavqB43_pcZiFN?usp=sharing)     |
 |     18     | April 24, 2023 | Text pre-processing |    [Link](Class%2018%20-%20Word%20Cloud/class_18_wordcloud.ipynb)    |     [Link](https://colab.research.google.com/drive/1UU4_wipit-0vmgUicv-Z6BWsuTyFAPSj?usp=sharing)     |
-|     19     | April 28, 2023 | TF-IDF |    [Link](Class%2019%20-%20TF-IDF/class_19_tfidf.ipynb)    |     [Link](https://colab.research.google.com/drive/1JCHx8hFd1nXdejXNjOgHNAsiaJo6f2cM?usp=sharing)     |
+|     19     | May 5, 2023 | TF-IDF |    [Link](Class%2019%20-%20TF-IDF/class_19_tfidf.ipynb)    |     [Link](https://colab.research.google.com/drive/1JCHx8hFd1nXdejXNjOgHNAsiaJo6f2cM?usp=sharing)     |
+|     20     | May 8, 2023 | Word2Vec |    [Link](Class%2020%20-%20Word2Vec/class_20_word2vec.ipynb)    |     [Link](https://colab.research.google.com/drive/110qQaupntmc5vEyF3XGVky2yOBI6jtPN?usp=sharing)     |
 
 
