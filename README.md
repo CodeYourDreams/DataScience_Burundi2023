@@ -39,7 +39,6 @@ Teaching Assistants:
 |     19     | May 5, 2023 | TF-IDF |    [Link](Class%2019%20-%20TF-IDF/class_19_tfidf.ipynb)    |     [Link](https://colab.research.google.com/drive/1JCHx8hFd1nXdejXNjOgHNAsiaJo6f2cM?usp=sharing)     |
 |     20     | May 8, 2023 | Word2Vec |    [Link](Class%2020%20-%20Word2Vec/class_20_word2vec.ipynb)    |     [Link]
 (https://colab.research.google.com/drive/110qQaupntmc5vEyF3XGVky2yOBI6jtPN?usp=sharing)     |
-|     21     | May 12, 2023 | Performance Metrics |    [Link](Class%2021%20-%20Performance%20Metrics/class_21_performance.ipynb)    |     [Link]
-(https://colab.research.google.com/drive/1FkkO9InQEYNjK8Qpk6RQMPvrCVTnvb2x?usp=sharing)     |
+|     21     | May 12, 2023 | Performance Metrics |    [Link](Class%2021%20-%20Performance%20Metrics/class_21_performance.ipynb)    |     N/A   |
 
 
