@@ -40,5 +40,6 @@ Teaching Assistants:
 |     20     | May 8, 2023 | Word2Vec |    [Link](Class%2020%20-%20Word2Vec/class_20_word2vec.ipynb)    |     [Link](https://colab.research.google.com/drive/110qQaupntmc5vEyF3XGVky2yOBI6jtPN?usp=sharing)     |
 |     21     | May 12, 2023 | Performance Metrics |    [Link](Class%2021%20-%20Performance%20Metrics/class_21_performance.ipynb)    |     N/A   |
 |     22     | May 15, 2023 | Classification models |    [Link](Class%2021%20-%20Performance%20Metrics/Class%2022%20-%20Classification/class_22_classification.ipynb)    |     N/A   |
+|     23     | May 18, 2023 | Classification models |    [Link](Class%2023%20-%20Classification%20part2/class_23_classification.ipynb)    |     [Link](https://colab.research.google.com/drive/1P2MInUT9YbWoVXYYRDWQ8iWfPDoLjVJM?usp=sharing)   |
 
 
