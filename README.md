@@ -42,6 +42,6 @@ Teaching Assistants:
 |     22     | May 15, 2023 | Classification models part 1 |    [Link](Class%2021%20-%20Performance%20Metrics/Class%2022%20-%20Classification/class_22_classification.ipynb)    |     N/A   |
 |     23     | May 18, 2023 | Classification models part 2 |    [Link](Class%2023%20-%20Classification%20part2/class_23_classification.ipynb)    |     [Link](https://colab.research.google.com/drive/1P2MInUT9YbWoVXYYRDWQ8iWfPDoLjVJM?usp=sharing)   |
 |     24     | May 26, 2023 | What's next? |    [Link](Class%2024%20-%20Next/class_24_clustering.ipynb)    |     [Link](https://colab.research.google.com/drive/1WL7a6s_OxGGdX4kOMIAF_jLmOpKT6A06?usp=sharing)   |
-|     25     | June, 2023 | Clustering |    [Link](Class%2025%20-%20Clustering/class_25_clustering.ipynb)    |     N/A  |
+|     25     | June, 2023 | Clustering |    [Link](Class%2025%20-%20Clustering/class_25_clustering.ipynb)    |     [Link](https://colab.research.google.com/drive/1ni3gs2i3WictFNS4V1F3jkVwJk-qFXVj?usp=sharing)  |
 
 
